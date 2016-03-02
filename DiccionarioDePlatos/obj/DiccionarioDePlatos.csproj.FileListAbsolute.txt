@@ -1,0 +1,15 @@
+C:\DiccionarioDePlatos1\Backup\DiccionarioDePlatos\bin\Debug\mydish.mdf
+C:\DiccionarioDePlatos1\Backup\DiccionarioDePlatos\bin\Debug\mydish_log.ldf
+C:\DiccionarioDePlatos1\Backup\DiccionarioDePlatos\bin\Debug\DiccionarioDePlatos.exe.config
+C:\DiccionarioDePlatos1\Backup\DiccionarioDePlatos\bin\Debug\DiccionarioDePlatos.exe
+C:\DiccionarioDePlatos1\Backup\DiccionarioDePlatos\bin\Debug\DiccionarioDePlatos.pdb
+C:\DiccionarioDePlatos1\Backup\DiccionarioDePlatos\obj\Debug\ResolveAssemblyReference.cache
+C:\DiccionarioDePlatos1\Backup\DiccionarioDePlatos\obj\Debug\DiccionarioDePlatos.Form1.resources
+C:\DiccionarioDePlatos1\Backup\DiccionarioDePlatos\obj\Debug\DiccionarioDePlatos.Form2.resources
+C:\DiccionarioDePlatos1\Backup\DiccionarioDePlatos\obj\Debug\DiccionarioDePlatos.Properties.Resources.resources
+C:\DiccionarioDePlatos1\Backup\DiccionarioDePlatos\obj\Debug\DiccionarioDePlatos.csproj.GenerateResource.Cache
+C:\DiccionarioDePlatos1\Backup\DiccionarioDePlatos\obj\Debug\DiccionarioDePlatos.exe
+C:\DiccionarioDePlatos1\Backup\DiccionarioDePlatos\obj\Debug\DiccionarioDePlatos.pdb
+C:\Users\Shawn-YANG\Desktop\DiccionarioDePlatos1\Backup\DiccionarioDePlatos\bin\Debug\DiccionarioDePlatos.exe.config
+C:\Users\Shawn-YANG\Desktop\DiccionarioDePlatos1\Backup\DiccionarioDePlatos\obj\Debug\DiccionarioDePlatos.exe
+C:\Users\Shawn-YANG\Desktop\DiccionarioDePlatos1\Backup\DiccionarioDePlatos\obj\Debug\DiccionarioDePlatos.pdb
